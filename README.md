@@ -7,9 +7,9 @@ Terms Of Service And Privacy Policy Document Dataset
 This data will be used to help build [heurisTOS](https://github.com/BA5ED/heurisTOS)!
 
 >[!IMPORTANT]
-> Please open PRs with raw text files in `data/raw/` with the naming scheme: `<source>_month_day_year.txt`.
+> Please open PRs with raw text files in `data/raw/` with the naming scheme: `<privacy|eula>_<source>_<month>_<day>_<year>.txt`.
 >
-> For example: `google-com_march_3_2025.txt`
+> For example: `privacy_google-com_march_3_2025.txt`
 
 Thank you!
 
